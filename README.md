@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jadehacquart
-- 👀 I’m interested in UI/UX design in app
+- 👀 I’m interested in UI/UX design in apps
 - 🌱 I’m currently learning UI/ UX design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
