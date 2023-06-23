@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jadehacquart
+- 👋 Hi, I’m Jade hacquart
 - 👀 I’m interested in UI/UX design in apps
 - 🌱 I’m currently learning UI/ UX design
 - 💞️ I’m looking to collaborate on ...
